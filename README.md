@@ -3,6 +3,7 @@ This example project demonstrates how the [gradient descent](http://en.wikipedia
 
 
 Here is a visualization of the search running for `200` iterations using an initial guess of `m = 0`, `c = 0`, and a learning rate(alpha) of `0.000005`.
+<br>
 <img src="https://github.com/mattnedrich/GradientDescentExample/blob/master/gradient_descent_example.gif" width="580">
 
 
